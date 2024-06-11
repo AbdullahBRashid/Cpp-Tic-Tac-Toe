@@ -15,4 +15,4 @@
 Variables declared on top of the file `tic-tac-toe.cpp`.
 
 ## Future
-Maybe add a gui? Thanks for the visit :)=
+Maybe add a gui? Thanks for the visit :)
